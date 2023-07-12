@@ -1,0 +1,13 @@
+-- CREATE TABLE students (
+--     id PRIMARY KEY,
+--     city VARCHAR(255),
+--     company VARCHAR(255),
+--     firstName VARCHAR(255),
+-- )
+
+-- CRETAE TABLE GRADES (
+--     id PRIMARY KEY,
+--     grade INT,
+--     studentId INT,
+--     test VARCHAR(255),
+-- )
